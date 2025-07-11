@@ -1,5 +1,7 @@
 # LANGUAGE
-* SCSS 56℅
-* HTML 31℅
-* JavaScript 6℅
-* PHP 5℅
+* SCSS
+* CSS
+* HTML
+* JavaScrip
+* PHP
+* SHELL
